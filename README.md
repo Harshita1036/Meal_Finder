@@ -1,7 +1,8 @@
 # Meal_Finder
 
-This is a web for finding meals. It works on the MealDB_API.
+This is a web for finding meals.
+It works on the [MealDB_API](https://themealdb.com/api.php).
 
-Find [here]( https://finder-meal-01.netlify.app/)
+You can find [here]( https://finder-meal-01.netlify.app/)
 
 
